@@ -6,7 +6,7 @@ from requests import post
 TG_TOKEN = 'xxx'  # TG机器人的TOKEN
 CHAT_ID = 'xxx'  # 推送消息的CHAT_ID
 # glados网站的cookie
-Cookie = 'xxxxxxxxxxx'
+Cookie = 'eyJ1c2VySWQiOjg3MDAwLCJfZXhwaXJlIjoxNjQ5Njc4Nzc4NDA3LCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0='
 
 
 def tgPush(message):
